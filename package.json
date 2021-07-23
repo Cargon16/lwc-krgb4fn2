@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/null.lwc-krgb4fn2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve bbIbAmdGYgKky8RpGS6X --open"
+  }
+}
